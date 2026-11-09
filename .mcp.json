@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "domino_docs": {
+      "type": "http",
+      "url": "https://docs.domino.ai/mcp"
+    }
+  }
+}
